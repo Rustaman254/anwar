@@ -1,0 +1,19 @@
+:root{
+  --main-color: #444B6C;
+}
+body{
+  margin: 0 auto;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  padding: 0;
+  color: #fff;
+  background: var(--main-color);
+  white-space: normal;
+  box-sizing: border-box;
+}
+.main-wrapper{
+  width: 100%;
+  margin: 0 auto;
+  padding: 10px;
+  overflow: hidden;
+}
